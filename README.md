@@ -21,7 +21,7 @@ _This is a simple GH profile with stats._
 
 </br>
 
-![My GitHub stats](https://github-readme-stats-topaz-beta-16.vercel.app/api?username=zoltan-kecskemethy-epam&show_icons=true)
+![My GitHub stats](https://github-readme-stats-lzu1ew8j3-kecskemethys-projects.vercel.app/api?username=zoltan-kecskemethy-epam&show_icons=true)
 
 </br>
 
